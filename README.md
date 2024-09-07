@@ -1,0 +1,2 @@
+# jsnew
+learning Javascript
